@@ -20,7 +20,7 @@ public class DashBoard
 	{
 		System.out.println("m3 Method");
 	}
-	public void m3() {
-		System.out.println("m3 Method");
+	public void m4() {
+		System.out.println("m4 Method");
 	}
 }
