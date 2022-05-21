@@ -10,7 +10,15 @@ public class DashBoard {
 		System.out.println("m2 Method");
 	}
 	
+
 	public void m6() {
 		System.out.println("m6 Method");
 	}
+
+	
+	public void m10() {
+		System.out.println("m10 Method");
+	}
+	
+
 }
