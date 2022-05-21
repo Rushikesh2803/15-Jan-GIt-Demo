@@ -19,5 +19,8 @@ public class DashBoard
 	public void m4() 
 	{
 		System.out.println("m4 Method");
+	}public void m4() 
+	{
+		System.out.println("m4 Method");
 	}
 }
