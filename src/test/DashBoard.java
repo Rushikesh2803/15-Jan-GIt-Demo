@@ -12,4 +12,11 @@ public class DashBoard {
 	public void m2() {
 		System.out.println("m2 Method");
 	}
+	
+	
+	public void m10() {
+		System.out.println("m10 Method");
+	}
+	
+	
 }
